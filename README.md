@@ -1,4 +1,6 @@
-# 10Codes Quiz App with HTML, CSS, and JavaScript
+# Tarot Quiz App with HTML, CSS, and JavaScript
+
+[https://habilya.github.io/TarotQuiz/](https://habilya.github.io/TarotQuiz/)
 
 # For developpers
 To setup a webserver containder run  `docker compose -f docker-compose.yml up`
