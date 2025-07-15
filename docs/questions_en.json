@@ -1,38 +1,38 @@
 [
 	{
-		"question": "A fresh start, trust, innocence, potential",
+		"question": "A fresh start, trust, significant step into unknown",
 		"answer": "↑ The Fool"
 	},
 	{
-		"question": "Inner wisdom, intuition, mystery",
+		"question": "Inner wisdom, intuition, mystery, expert or expert advise",
 		"answer": "↑ The Magician"
 	},
 	{
-		"question": "Nurturing, creation, abundance",
+		"question": "Nurturing, creation, abundance, hidden knowledge, something not yet seen",
 		"answer": "↑ The High Priestess"
 	},
 	{
-		"question": "Leadership, authority, structure",
+		"question": "You are queen, creating something, birth to new idea",
 		"answer": "↑ The Empress"
 	},
 	{
-		"question": "Ambition, control, direction",
+		"question": "Ambition, control, direction, leadership",
 		"answer": "↑ The Emperor"
 	},
 	{
-		"question": "Belief, guidance, higher purpose",
+		"question": "Belief, guidance, higher purpose, self development, seeking mentorship",
 		"answer": "↑ The Hierophant"
 	},
 	{
-		"question": "Partnerships, choices, balance",
+		"question": "Partnerships, choices, balance, obsession & passion",
 		"answer": "↑ The Lovers"
 	},
 	{
-		"question": "Willpower, focus, determination",
+		"question": "Willpower, focus, determination, advancement",
 		"answer": "↑ The Chariot"
 	},
 	{
-		"question": "Strength, courage, inner power",
+		"question": "Strength, courage, inner power, confidence",
 		"answer": "↑ Strength"
 	},
 	{
@@ -40,11 +40,11 @@
 		"answer": "↑ The Hermit"
 	},
 	{
-		"question": "Turning point, change, fate",
+		"question": "Turning point, change, fate, evolutionary change",
 		"answer": "↑ Wheel of Fortune"
 	},
 	{
-		"question": "Justice, truth, accountability",
+		"question": "Justice, truth, accountability, legal matters, true path, what is right for you",
 		"answer": "↑ Justice"
 	},
 	{
@@ -52,79 +52,79 @@
 		"answer": "↑ The Hanged Man"
 	},
 	{
-		"question": "Endings, transformation, rebirth",
+		"question": "Endings, transformation, rebirth, something ends - something begins",
 		"answer": "↑ Death"
 	},
 	{
-		"question": "Moderation, balance, healing",
+		"question": "Moderation, balance, healing, patience",
 		"answer": "↑ Temperance"
 	},
 	{
-		"question": "Challenge, upheaval, revelation",
+		"question": "Challenge, upheaval, revelation, temptetion, prisonner of your own temptations",
 		"answer": "↑ The Devil"
 	},
 	{
-		"question": "Crisis, revelation, awakening",
+		"question": "Chaos, Crisis, revelation, awakening, rebuild your life",
 		"answer": "↑ The Tower"
 	},
 	{
-		"question": "Hope, renewal, serenity",
+		"question": "Hope, renewal, serenity, inspiration, guidance",
 		"answer": "↑ The Star"
 	},
 	{
-		"question": "Illusion, fear, subconscious",
+		"question": "Illusion, fear, subconscious, hidden soon to be revealed",
 		"answer": "↑ The Moon"
 	},
 	{
-		"question": "Clarity, enlightenment, truth",
+		"question": "Clarity, enlightenment, truth, success, hapinnes",
 		"answer": "↑ The Sun"
 	},
 	{
-		"question": "Judgment, rebirth, reckoning",
+		"question": "Judgment, rebirth, reckoning, you are awoken to make the most of your life, complte chage of direction",
 		"answer": "↑ Judgement"
 	},
 	{
-		"question": "Completion, arrival, fulfillment",
+		"question": "Completion, arrival, fulfillment, world is at your feet",
 		"answer": "↑ The World"
 	},
 	{
-		"question": "New beginnings in emotions, inspiration",
+		"question": "New emotional relationship, New beginnings in emotions, inspiration",
 		"answer": "↓ Ace of Cups"
 	},
 	{
-		"question": "Partnership and mutual understanding in love",
+		"question": "Emotional partnership and mutual understanding in love, business",
 		"answer": "↓ Two of Cups"
 	},
 	{
-		"question": "Celebration, creativity, friendship",
+		"question": "Celebration, creativity, friendship, gathering",
 		"answer": "↓ Three of Cups"
 	},
 	{
-		"question": "Contemplation, re-evaluation of feelings",
+		"question": "Emotional disinterest, re-evaluation of feelings",
 		"answer": "↓ Four of Cups"
 	},
 	{
-		"question": "Choices in emotions, desire for more",
+		"question": "Emotional loss, grieviing, Choices in emotions, desire for more",
 		"answer": "↓ Five of Cups"
 	},
 	{
-		"question": "Recovery, appreciation, connection",
+		"question": "Emotional nostalgia, Recovery, appreciation, connection",
 		"answer": "↓ Six of Cups"
 	},
 	{
-		"question": "Transition, letting go, moving forward",
+		"question": "Emotionally confusing, illusionary, a lot, Transition, letting go, moving forward",
 		"answer": "↓ Seven of Cups"
 	},
 	{
-		"question": "Happiness, harmony, success in relationships",
+		"question": "Emotional ability to get over past emotions looking forward to new ones",
 		"answer": "↓ Eight of Cups"
 	},
 	{
-		"question": "Reflection, meditation, emotional balance",
+		"question": "Emotional fullfillment, balance, Reflection, meditation",
 		"answer": "↓ Nine of Cups"
 	},
 	{
-		"question": "Fulfillment, celebration, wishes granted",
+		"question": "Emotional Happy ever after, celebration, wishes granted",
 		"answer": "↓ Ten of Cups"
 	},
 	{
@@ -132,19 +132,19 @@
 		"answer": "↓ Page of Cups"
 	},
 	{
-		"question": "Romantic openness, idealism",
+		"question": "Emotional movement forward, romantic openness, idealism",
 		"answer": "↓ Knight of Cups"
 	},
 	{
-		"question": "Emotional intelligence, graciousness",
+		"question": "Emotional intelligence, graciousness, mother, sister, friend",
 		"answer": "↓ Queen of Cups"
 	},
 	{
-		"question": "Compassion, connection, nurturing",
+		"question": "Emotional Compassion, connection, responsibility, leadership",
 		"answer": "↓ King of Cups"
 	},
 	{
-		"question": "Spark of creative energy, ambition in work",
+		"question": "New financial beginning, Spark of creative energy, ambition in work",
 		"answer": "↓ Ace of Pentacles"
 	},
 	{
@@ -160,7 +160,7 @@
 		"answer": "↓ Four of Pentacles"
 	},
 	{
-		"question": "Loss, change, reassessment of resources",
+		"question": "Loss, change, reassessment of resources, financial milestone",
 		"answer": "↓ Five of Pentacles"
 	},
 	{
@@ -172,11 +172,11 @@
 		"answer": "↓ Seven of Pentacles"
 	},
 	{
-		"question": "Practical completion, long-term success",
+		"question": "Practical completion, long-term success, skilled well established, busy",
 		"answer": "↓ Eight of Pentacles"
 	},
 	{
-		"question": "Abundance, material satisfaction, luxury",
+		"question": "Financial fullfillment, Abundance, material satisfaction, luxury",
 		"answer": "↓ Nine of Pentacles"
 	},
 	{
@@ -184,15 +184,15 @@
 		"answer": "↓ Ten of Pentacles"
 	},
 	{
-		"question": "New opportunity in commerce or learning",
+		"question": "New financial path,New opportunity in commerce or learning",
 		"answer": "↓ Page of Pentacles"
 	},
 	{
-		"question": "Ambitious action in career and finances",
+		"question": "Advancemnt in financial, Ambitious action in career and finances",
 		"answer": "↓ Knight of Pentacles"
 	},
 	{
-		"question": "Practical wisdom, nurturing responsibility",
+		"question": "Nurturing responsibility, Practical wisdom",
 		"answer": "↓ Queen of Pentacles"
 	},
 	{
@@ -208,51 +208,51 @@
 		"answer": "↓ Two of Wands"
 	},
 	{
-		"question": "Collaboration and creative teamwork",
+		"question": "Creating something and put it out in the world and wait for return",
 		"answer": "↓ Three of Wands"
 	},
 	{
-		"question": "Restlessness, planning, stalled energy",
+		"question": "Creative Stability or stalled energy",
 		"answer": "↓ Four of Wands"
 	},
 	{
-		"question": "Conflict, tension, creative challenge",
+		"question": "Creative challenge, Conflict, tension, same level (colleagues)",
 		"answer": "↓ Five of Wands"
 	},
 	{
-		"question": "Victory, recognition, competition",
+		"question": "Creative Victory, recognition, competition",
 		"answer": "↓ Six of Wands"
 	},
 	{
-		"question": "Abundance of ideas, multiple options",
+		"question": "Creative Abundance of ideas, multiple options",
 		"answer": "↓ Seven of Wands"
 	},
 	{
-		"question": "Skill development, perseverance in craft",
+		"question": "Creative Skill development, perseverance in craft, Busy",
 		"answer": "↓ Eight of Wands"
 	},
 	{
-		"question": "Rush of energy, swift progress",
+		"question": "Rush of energy, swift progress, maybe a bit tired from it",
 		"answer": "↓ Nine of Wands"
 	},
 	{
-		"question": "Completion and mastery of creative endeavors",
+		"question": "Creative completion and mastery of endeavors",
 		"answer": "↓ Ten of Wands"
 	},
 	{
-		"question": "Creative message, proposals, opportunities",
+		"question": "Creative new path, message, proposals, opportunities",
 		"answer": "↓ Page of Wands"
 	},
 	{
-		"question": "Action, adventure, charismatic energy",
+		"question": "Creative advancement, Action, adventure, charismatic energy",
 		"answer": "↓ Knight of Wands"
 	},
 	{
-		"question": "Inspiration, leadership, warmth",
+		"question": "Creative Inspiration, leadership, warmth",
 		"answer": "↓ Queen of Wands"
 	},
 	{
-		"question": "Entrepreneurial drive, charisma, vision",
+		"question": "Creative drive, charisma, vision, leadrship",
 		"answer": "↓ King of Wands"
 	},
 	{
@@ -260,47 +260,47 @@
 		"answer": "↓ Ace of Swords"
 	},
 	{
-		"question": "Planning, decision-making, balance",
+		"question": "Decision-making, intelectual planning",
 		"answer": "↓ Two of Swords"
 	},
 	{
-		"question": "Growth in ideas, communication",
+		"question": "Heartbroken, intellectual loss, communication",
 		"answer": "↓ Three of Swords"
 	},
 	{
-		"question": "Resilience after heartbreak, recovery",
+		"question": "Resilience after heartbreak, recovery, take a break",
 		"answer": "↓ Four of Swords"
 	},
 	{
-		"question": "Conflict, stress, tension in mind",
+		"question": "Conflict, stress, tension in mind, people can help you, seek help",
 		"answer": "↓ Five of Swords"
 	},
 	{
-		"question": "Disillusionment, reevaluation of beliefs",
+		"question": "Disillusionment, reevaluation of beliefs, smother waters",
 		"answer": "↓ Six of Swords"
 	},
 	{
-		"question": "Communication success, improvement",
+		"question": "Deception, lookout",
 		"answer": "↓ Seven of Swords"
 	},
 	{
-		"question": "Achievement, recognition in intellect",
+		"question": "Traped in their thoughts",
 		"answer": "↓ Eight of Swords"
 	},
 	{
-		"question": "Reflection, justice of words",
+		"question": "Thoughts are bugging you too much, Reflection",
 		"answer": "↓ Nine of Swords"
 	},
 	{
-		"question": "Completion of mental projects, resolution",
+		"question": "Completion of mental projects, resolution, as worst as it gets, only improve from here",
 		"answer": "↓ Ten of Swords"
 	},
 	{
-		"question": "Message delivering new insight",
+		"question": "New intellectual path, new insight",
 		"answer": "↓ Page of Swords"
 	},
 	{
-		"question": "Curiosity, vigilance, exploration",
+		"question": "Intelectual advancement, Curiosity, vigilance, exploration",
 		"answer": "↓ Knight of Swords"
 	},
 	{
@@ -308,7 +308,7 @@
 		"answer": "↓ Queen of Swords"
 	},
 	{
-		"question": "Authority in intellect, strategic thinking",
+		"question": "Intellectual Authority, strategic thinking",
 		"answer": "↓ King of Swords"
 	}
 ]
