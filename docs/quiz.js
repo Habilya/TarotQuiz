@@ -15,6 +15,7 @@ class Quiz {
 		this.progressText = document.getElementById('progressText');
 		this.scoreText = document.getElementById('score');
 		this.progressBarFull = document.getElementById('progressBarFull');
+		this.questionImage = document.getElementById('question-image');
 
 		// Initial state
 		this.currentQuestion = {};
@@ -67,6 +68,7 @@ class Quiz {
 		const questionIndex = Math.floor(Math.random() * this.availableQuestions.length);
 		this.currentQuestion = this.availableQuestions[questionIndex];
 		this.question.innerText = this.currentQuestion.question;
+		this.questionImage.src = `/TarotQuiz/cards/${this.currentQuestion.image}`
 
 		if (this.quizType === this.MULTIPLE_CHICE) {
 			this.SetupQuizMultipleChoices(questionIndex);

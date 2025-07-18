@@ -41,11 +41,16 @@
 	color: red;
 }
 
-/* HUD */
+#question-image {
+	max-width: 150px;
+	height: auto;
+	margin-bottom: 20px;
+}
 
+/* HUD */
 #hud {
-  display: flex;
-  justify-content: space-between;
+	display: flex;
+	justify-content: space-between;
 }
 
 .hud-prefix {
